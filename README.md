@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Alisson.kauan77@gmail.com**
 
-<div align = "center"> 
+<div > 
   <a href="https://github.com/alissonk1">
   <img height = "160 em" src="https://github-readme-stats.vercel.app/api?username=alissonk1&show_icons=true&locale=en&theme=dark" alt="alissonk1" />
   <img height = "160 em"src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonk1&show_icons=true&locale=en&layout=compact&theme=dark" alt="alissonk1" />  
