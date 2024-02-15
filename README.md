@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alisson Kauan</h1>
-<h3 align="center">A passionate Java Developer from Brazil</h3>
+<h3 align="center">A passionate Full-Stack Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Java, Html, Css and JavaScript**
+- 🌱 I’m currently learning **C#, .NET and Angular**
 
 - 📫 How to reach me **Alisson.kauan77@gmail.com**
 
